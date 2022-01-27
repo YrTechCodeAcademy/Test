@@ -1,0 +1,9 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.000
+This file shows how VTT files are formatted
+
+2
+00:00:04.000 --> 00:00:10.000
+They can be added to videos using the HTML track tag
